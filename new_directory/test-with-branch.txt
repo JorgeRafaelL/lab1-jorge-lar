@@ -1,4 +1,5 @@
 Add new file from branch "branch-a"
+Add line from branch "feature-branch-c" ---->
 New coment from branch "feature-branch-b"
 |
 |
