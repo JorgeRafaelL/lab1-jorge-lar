@@ -1,0 +1,13 @@
+{
+  "name": "lab1-jorge-lar",
+  "version": "1.0.0",
+  "description": "Ejemplo de proyecto JavaScript con GitHub Actions",
+  "main": "src/add.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "jest": "^29.0.0"
+  }
+}
